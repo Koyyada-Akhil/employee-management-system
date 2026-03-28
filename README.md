@@ -41,6 +41,3 @@ cd frontend
 npm install
 npm start
 ```
-
-## 📸 Screenshots
-*(Add screenshots of your app here)*
